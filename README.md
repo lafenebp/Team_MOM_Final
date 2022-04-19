@@ -6,7 +6,7 @@
 
 3.  [Test Plan and Results](https://github.com/lafenebp/Team_MOM_Final/blob/9c6041578e7725d847523ee484e4d94dd2024837/Test%20Plan.pdf)
 
-4.  [User Manual]() 
+4.  [User Manual](https://sjansen71298.wixsite.com/website) 
 
 5.  [Spring Final PPT Presentation](https://github.com/lafenebp/Team_MOM_Final/blob/aad23022542a46c96cab9383a5eb749853dcb261/Team%20MOM%20Final%20Presentation.pptx) 
 
