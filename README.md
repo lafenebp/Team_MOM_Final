@@ -10,7 +10,7 @@
 
 5.  [Spring Final PPT Presentation]() 
 
-6.  [Final Expo Poster]()
+6.  [Final Expo Poster](https://github.com/lafenebp/Team_MOM_Final/blob/05675931c833c064262a0a579f167c252880d248/unblock'd%20final%20poster.pdf)
 
 7.  [Self-Assessments](https://github.com/lafenebp/Team_MOM_Final/tree/main/Assessments)
 
