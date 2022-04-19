@@ -14,4 +14,4 @@
 
 7.  [Self-Assessments](https://github.com/lafenebp/Team_MOM_Final/tree/main/Assessments)
 
-8.  [Summary of Hours and Justification]()
+8.  [Summary of Hours and Justification](https://github.com/lafenebp/Team_MOM_Final/blob/f71fef5c3a330577bb66d99d29588dd00b799fb6/Summary%20of%20Hours.pdf)
