@@ -4,7 +4,7 @@
 
 2.  [User Interface Specification](https://github.com/lafenebp/Team_MOM_Final/blob/0c6a23e737d546c5a7f75fb6900bd31afad3eb9d/UI_Spec.md)
 
-3.  [Test Plan and Results]()
+3.  [Test Plan and Results](https://github.com/lafenebp/Team_MOM_Final/blob/9c6041578e7725d847523ee484e4d94dd2024837/Test%20Plan.pdf)
 
 4.  [User Manual]() 
 
