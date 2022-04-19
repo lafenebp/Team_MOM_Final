@@ -12,6 +12,6 @@
 
 6.  [Final Expo Poster]()
 
-7.  [Assessments]()
+7.  [Self-Assessments](https://github.com/lafenebp/Team_MOM_Final/tree/main/Assessments)
 
 8.  [Summary of Hours and Justification]()
